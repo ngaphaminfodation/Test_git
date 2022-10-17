@@ -1,3 +1,4 @@
 Nội dung A
 
 Update by master
+Update by Beta branch
